@@ -13,5 +13,14 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanBmenez/Feirinha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuanBmenez/Feirinha/issues"
+  },
+  "homepage": "https://github.com/LuanBmenez/Feirinha#readme"
 }
